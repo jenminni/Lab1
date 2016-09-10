@@ -2,6 +2,7 @@ package Main;
 
 import java.util.Scanner;
 
+
 public class retirement {
 	public static void main(String[] args) {
 		Scanner input = new Scanner(System.in);
